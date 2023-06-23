@@ -21,14 +21,13 @@ This is a library system built in Node.js, designed to manage books and their re
 
 ## Installation
 
-1. Clone this repository https://github.com/mostafa2080/NodeJs-Project-
-2. Run npm install to install the required dependencies
+1. Run npm install to install the required dependencies
 
 ```bash
   npm install
 ```
 
-3. Run npm start to start the server
+2. Run npm start to start the server
 
 ### Local mongodb
 
@@ -42,7 +41,7 @@ This is a library system built in Node.js, designed to manage books and their re
   NODE_ENV=production npm start
 ```
 
-4. Access the api on http://localhost:8080
+3. Access the api on http://localhost:8080
 
 ## Technologies Used
 
